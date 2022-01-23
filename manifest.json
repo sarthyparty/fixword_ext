@@ -22,4 +22,15 @@
     "48": "/images/get_started48.png",
     "128": "/images/get_started128.png"
   }
+  {
+  "name": "Getting Started Example",
+  ...
+  "options_page": "options.html"
+}
+{
+  "name": "Getting Started Example",
+  ...
+  "permissions": ["storage", "activeTab", "scripting"],
+  ...
+}
 }
