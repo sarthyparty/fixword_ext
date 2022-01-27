@@ -1,6 +1,6 @@
 # Convenient Chrome Extension for generating unique variations of your username.
 
-<h2>Manual Installation Steps (since it is not on Chrome Web Store yet)</h2>\
+<h2>Manual Installation Steps (since it is not on Chrome Web Store yet)</h2>
 
 - Download as .zip
 - Unzip it so you have the full folder.
