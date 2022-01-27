@@ -9,4 +9,8 @@
 - Click "Load Unpacked" and find fixword_ext on your computer and upload it. 
 - That's all, it is now installed! 
 
+[Node Package](https://github.com/sarthyparty/fixword)
+
+[Website Demo](https://fixword.netlify.app/)
+
 
