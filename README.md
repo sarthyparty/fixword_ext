@@ -1,4 +1,6 @@
-# Convenient Chrome Extension for generating unique variations of your username.
+# Fixword Extension
+
+Convenient Chrome Extension for generating unique variations of your username.
 
 <h2>Manual Installation Steps (since it is not on Chrome Web Store yet)</h2>
 
